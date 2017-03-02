@@ -1,0 +1,9 @@
+<templateSet group="_">
+  <template name="find" value="_.find($OBJECT$, function ($PARAM$) {&#10;    $END$&#10;}. bind(this));" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
