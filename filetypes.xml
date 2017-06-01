@@ -6,6 +6,7 @@
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="asdaasd" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="2" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
