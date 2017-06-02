@@ -4,7 +4,6 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
-          <option name="filterOutBeforeGrep" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
