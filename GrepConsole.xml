@@ -35,7 +35,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="id" value="8503675e-ff8f-4205-b1fb-e91e91f4c60f" />
                       <option name="inputFilter" value="true" />
@@ -58,7 +57,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="id" value="31b149d0-8efe-431f-ada0-466ef18fdb64" />
                       <option name="inputFilter" value="true" />
@@ -81,7 +79,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="10d5fc7d-fff5-47ea-87e2-cf8e043e605d" />
                       <option name="inputFilter" value="true" />
@@ -99,7 +96,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*INFO.*" />
                       <option name="id" value="a912e973-9735-4c18-a3d2-b9bc36ef752f" />
                       <option name="inputFilter" value="true" />
@@ -117,16 +113,10 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="id" value="e26089aa-057b-4bcd-9c05-b2189cb69de1" />
                       <option name="style">
                         <GrepStyle>
-                          <option name="foregroundColor">
-                            <GrepColor>
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
                           <option name="id" value="b720b8f5-6aed-4615-842e-800f00603fd6" />
                         </GrepStyle>
                       </option>
@@ -136,11 +126,11 @@
                 <option name="name" value="default" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
+                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*(node_modules|Message broker|client connected|sources available|asking client|memory leak|native|internal|2017-06|domain|timers).*" />
                       <option name="id" value="d035b9eb-8d5a-42e7-8cbd-28393079e679" />
                       <option name="inputFilter" value="true" />
@@ -157,9 +147,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*Trace.*" />
-                      <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="8c85e508-60b1-489d-8e5f-a89219fbdb95" />
                       <option name="style">
                         <GrepStyle>
