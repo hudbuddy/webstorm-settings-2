@@ -178,6 +178,32 @@
                 </option>
                 <option name="name" value="test" />
               </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value=".*Mongoose.*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="2ffadee7-d5a4-4467-8727-e5705d5d9e23" />
+                      <option name="inputFilter" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16742007" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="875f6b90-70bb-48ae-8a60-9f930dedb258" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="new" />
+              </GrepExpressionGroup>
             </list>
           </option>
           <option name="id" value="1496364155118" />
