@@ -174,13 +174,13 @@
                 <option name="name" value="default" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
+                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
                       <option name="grepExpression" value=".*warn.*" />
                       <option name="id" value="d035b9eb-8d5a-42e7-8cbd-28393079e679" />
-                      <option name="inputFilter" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
