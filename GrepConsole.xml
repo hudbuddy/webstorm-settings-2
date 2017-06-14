@@ -11,7 +11,7 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
-                      <option name="grepExpression" value=".*FATAL.*" />
+                      <option name="grepExpression" value=".*FATAL:.*" />
                       <option name="id" value="df0da82d-7ea2-4c76-94c0-df14a5a4270d" />
                       <option name="style">
                         <GrepStyle>
@@ -34,7 +34,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
-                      <option name="grepExpression" value=".*ERROR.*" />
+                      <option name="grepExpression" value=".*ERROR:.*" />
                       <option name="id" value="8503675e-ff8f-4205-b1fb-e91e91f4c60f" />
                       <option name="style">
                         <GrepStyle>
@@ -55,7 +55,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
-                      <option name="grepExpression" value=".*WARN.*" />
+                      <option name="grepExpression" value=".*WARN:.*" />
                       <option name="id" value="31b149d0-8efe-431f-ada0-466ef18fdb64" />
                       <option name="style">
                         <GrepStyle>
@@ -76,7 +76,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
-                      <option name="grepExpression" value=".*INFO.*" />
+                      <option name="grepExpression" value=".*INFO:.*" />
                       <option name="id" value="559bae02-a2d9-48ae-964b-95f565823fa3" />
                       <option name="style">
                         <GrepStyle>
@@ -97,7 +97,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
-                      <option name="grepExpression" value=".*VERBOSE.*" />
+                      <option name="grepExpression" value=".*VERBOSE:.*" />
                       <option name="id" value="18d99ed9-fc1f-4bfb-ac5f-05e83e7e7321" />
                       <option name="style">
                         <GrepStyle>
@@ -118,7 +118,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
-                      <option name="grepExpression" value=".*DEBUG.*" />
+                      <option name="grepExpression" value=".*DEBUG:.*" />
                       <option name="id" value="10d5fc7d-fff5-47ea-87e2-cf8e043e605d" />
                       <option name="style">
                         <GrepStyle>
@@ -134,7 +134,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
-                      <option name="grepExpression" value=".*SILLY.*" />
+                      <option name="grepExpression" value=".*SILLY:.*" />
                       <option name="id" value="4d94ee90-b524-43d8-ac4a-5a888a1caf80" />
                       <option name="style">
                         <GrepStyle>
