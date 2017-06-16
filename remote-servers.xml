@@ -3,6 +3,9 @@
     <remote-server name="Docker" type="docker">
       <configuration>
         <option name="certificatesPath" value="C:\Users\skwac\.docker\machine\certs" />
+        <option name="pathMappings">
+          <list />
+        </option>
       </configuration>
     </remote-server>
   </component>
