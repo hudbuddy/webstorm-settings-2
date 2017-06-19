@@ -1,11 +1,15 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="e44cf0d2-fe9a-4d92-96e9-3fd911061755" name="Lightstream Studio" url="http://10.0.5.6">
-        <fileTransfer port="0" mountedRoot="X:\srv\www\infiniscene-studio" accessType="MOUNT" />
+      <webServer id="db7fccfd-5cb4-42e6-9fc5-05d4a2d4fccc" name="Studio" url="http://10.0.5.6">
+        <fileTransfer host="10.5.0.6" port="22" rootFolder="/srv/www/infiniscene-studio" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
       </webServer>
-      <webServer id="c114056a-32ae-45ce-a44f-4af7c0f0055f" name="Lightstream Central" url="http://10.5.0.3">
-        <fileTransfer port="0" mountedRoot="Z:\srv\www\infiniscene-central" accessType="MOUNT" />
+      <webServer id="833920c0-24f2-4a57-b2f0-d203616a0b51" name="Central" url="http://10.5.0.3">
+        <fileTransfer host="10.5.0.3" port="22" rootFolder="/srv/www/infiniscene-central" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
       </webServer>
     </option>
   </component>

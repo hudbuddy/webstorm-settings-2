@@ -1,5 +1,6 @@
 <application>
   <component name="NodeJSRemoteInterpreters">
     <interpreter node-remote-interpreter="ssh://root@10.5.0.6:22/usr/bin/node" HOST="10.5.0.6" PORT="22" ANONYMOUS="false" USERNAME="root" PASSWORD="dfc6dfc3dfcddfc2dfdedfd9dfdedfd8dfcfdfcbdfc7" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/node" HELPERS_PATH="/root/.webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="6.7.0" />
+    <interpreter node-remote-interpreter="sftp://root@10.5.0.3:22/usr/bin/node" WEB_SERVER_CONFIG_ID="833920c0-24f2-4a57-b2f0-d203616a0b51" WEB_SERVER_CONFIG_NAME="Central" HOST="10.5.0.3" PORT="22" ANONYMOUS="false" USERNAME="root" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/node" HELPERS_PATH="/root/.webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="6.7.0" />
   </component>
 </application>
