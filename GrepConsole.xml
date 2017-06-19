@@ -193,6 +193,27 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
+                      <option name="grepExpression" value=".*sfu.*" />
+                      <option name="id" value="fbae28a3-1799-40f5-8261-701b3b04ca8d" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16742007" />
+                            </GrepColor>
+                          </option>
+                          <option name="bold" value="true" />
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-6788026" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="653147f5-5934-4f95-a1e8-bc7f63ce0bd8" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="test" />
