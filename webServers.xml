@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c114056a-32ae-45ce-a44f-4af7c0f0055f" name="Lighstream Central" url="http://10.5.0.3">
+        <fileTransfer port="0" mountedRoot="Z:\srv\www\infiniscene-central" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
