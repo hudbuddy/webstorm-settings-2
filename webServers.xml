@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="db7fccfd-5cb4-42e6-9fc5-05d4a2d4fccc" name="Studio" url="http://10.0.5.6">
+      <webServer id="db7fccfd-5cb4-42e6-9fc5-05d4a2d4fccc" name="Studio" url="http://10.5.0.6">
         <fileTransfer host="10.5.0.6" port="22" rootFolder="/srv/www/infiniscene-studio" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
