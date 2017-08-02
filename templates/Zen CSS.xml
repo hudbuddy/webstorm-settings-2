@@ -2,8 +2,8 @@
   <template name="ct:cs" value="content:counters($VAR0$);" description="content:counters(...);" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="JSX_HTML" value="true" />
+      <option name="HTML_TEXT" value="true" />
     </context>
   </template>
 </templateSet>
