@@ -1,18 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="db7fccfd-5cb4-42e6-9fc5-05d4a2d4fccc" name="Studio" url="http://prism.sandbox.horse">
-        <fileTransfer host="prism.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-studio" accessType="SFTP">
+      <webServer id="db7fccfd-5cb4-42e6-9fc5-05d4a2d4fccc" name="Studio" url="http://app.sandbox.horse">
+        <fileTransfer host="app.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-studio" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="833920c0-24f2-4a57-b2f0-d203616a0b51" name="Central" url="http://central.sandbox.horse">
-        <fileTransfer host="central.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-central" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="40f77c91-5800-428e-a141-95331f2d5aa5" name="Prism" url="https://prism.sandbox.horse">
-        <fileTransfer host="prism.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-prism" accessType="SFTP">
+      <webServer id="c6335d0d-4190-4f6a-a187-fb7019711bb4" name="WebRTC" url="http://preview.live.sandbox.horse">
+        <fileTransfer host="preview.live.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-janus-monitor" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
