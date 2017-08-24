@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="selectedTheme" value="DARKER" />
+    <option name="accentColor" value="64ffda" />
+    <option name="compactSidebar" value="true" />
+    <option name="tabsHeight" value="50" />
+    <option name="isCompactStatusBar" value="true" />
+  </component>
+</application>
