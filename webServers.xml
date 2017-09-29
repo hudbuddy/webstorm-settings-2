@@ -14,8 +14,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="c6335d0d-4190-4f6a-a187-fb7019711bb4" name="WebRTC" url="http://preview.live.sandbox.horse">
-        <fileTransfer host="preview.live.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-janus-monitor" accessType="SFTP">
+      <webServer id="c6335d0d-4190-4f6a-a187-fb7019711bb4" name="WebRTC" url="http://webrtc.sandbox.horse">
+        <fileTransfer host="webrtc.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-webrtc" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
