@@ -24,6 +24,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="363a327f-aa14-40dc-9825-eba0d49d4635" name="Central" url="http://central.sandbox.horse">
+        <fileTransfer host="central.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-central" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
