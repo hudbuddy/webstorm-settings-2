@@ -29,6 +29,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="c97f9fd6-6e11-429b-bc35-9c3505b8a3e5" name="Captivate" url="http://captivate.sandbox.horse">
+        <fileTransfer host="captivate.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-captivate" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
