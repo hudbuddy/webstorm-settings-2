@@ -34,6 +34,16 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="6b296eab-9949-4dc8-960d-467911cc8aed" name="Prism" url="http://prism.sandbox.horse">
+        <fileTransfer host="prism.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-prism" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="083cbdaf-2b5c-4493-b02f-1b8926f446d4" name="Ingest" url="http://ingest.sandbox.horse">
+        <fileTransfer host="ingest.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-ingest" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
