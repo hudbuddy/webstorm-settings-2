@@ -6,8 +6,13 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
-      <webServer id="e1941b23-8315-486d-8e87-5624cc51ee7e" name="app.sandbox.horse" url="https://app.sandbox.horse">
-        <fileTransfer port="0" mountedRoot="F:\srv\www\infiniscene-studio" accessType="MOUNT" />
+      <webServer id="23431b8a-3136-408c-9ae9-8a230791eb7e" name="app.golightstream.com" url="http://app.golightstream.com">
+        <fileTransfer host="app.golightstream.com" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
       </webServer>
       <webServer id="db7fccfd-5cb4-42e6-9fc5-05d4a2d4fccc" name="Studio" url="http://app.sandbox.horse/">
         <fileTransfer host="app.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-studio" accessType="SFTP">
@@ -41,6 +46,14 @@
       </webServer>
       <webServer id="083cbdaf-2b5c-4493-b02f-1b8926f446d4" name="Ingest" url="http://ingest.sandbox.horse">
         <fileTransfer host="ingest.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-ingest" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="28b69145-7632-4375-a6c0-e8ea4dd1b3f5" name="app.stream.horse" url="http://app.stream.horse">
+        <fileTransfer host="app.stream.horse" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
