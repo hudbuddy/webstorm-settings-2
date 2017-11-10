@@ -9,7 +9,7 @@
       <webServer id="e1941b23-8315-486d-8e87-5624cc51ee7e" name="app.sandbox.horse" url="https://app.sandbox.horse">
         <fileTransfer port="0" mountedRoot="F:\srv\www\infiniscene-studio" accessType="MOUNT" />
       </webServer>
-      <webServer id="db7fccfd-5cb4-42e6-9fc5-05d4a2d4fccc" name="Studio" url="http://app.sandbox.horse">
+      <webServer id="db7fccfd-5cb4-42e6-9fc5-05d4a2d4fccc" name="Studio" url="http://app.sandbox.horse/">
         <fileTransfer host="app.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-studio" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
