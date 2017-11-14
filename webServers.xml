@@ -65,6 +65,16 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="9709580b-74c2-4a37-bfa8-bdfd249601df" name="Redis" url="http://app.sandbox.horse/">
+        <fileTransfer host="redis.sandbox.horse" port="22" rootFolder="/srv" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d3af6ee1-c602-40a4-89aa-1d8546db4388" name="Rainmaker" url="http://rainmaker.sandbox.horse/">
+        <fileTransfer host="rainmaker.sandbox.horse" port="22" rootFolder="/srv" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
