@@ -49,8 +49,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="28b69145-7632-4375-a6c0-e8ea4dd1b3f5" name="app.stream.horse" url="http://app.stream.horse">
-        <fileTransfer host="app.stream.horse" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
+      <webServer id="28b69145-7632-4375-a6c0-e8ea4dd1b3f5" name="app.stream.horse" url="http://10.3.50.4">
+        <fileTransfer host="10.3.50.4" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
