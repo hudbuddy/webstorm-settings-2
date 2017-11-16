@@ -75,6 +75,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="9334b1c3-2191-4833-870c-89dbb07859f2" name="API" url="http://api.sandbox.horse/">
+        <fileTransfer host="api.sandbox.horse" port="22" rootFolder="/srv" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
