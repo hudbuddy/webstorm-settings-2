@@ -57,7 +57,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="216c7879-eb2e-46af-967b-644737c164ac" name="webrtc.stream.horse" url="http://webrtc.stream.horse">
+      <webServer id="216c7879-eb2e-46af-967b-644737c164ac" name="WebRTC (Staging)" url="http://webrtc.stream.horse">
         <fileTransfer host="webrtc.stream.horse" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
