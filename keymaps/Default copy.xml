@@ -72,11 +72,8 @@
   <action id="GotoTest" />
   <action id="HtmlTableCellNavigateLeft" />
   <action id="HtmlTableCellNavigateRight" />
+  <action id="Images.Editor.ToggleGrid" />
   <action id="Images.ShowThumbnails" />
-  <action id="InsertLiveTemplate">
-    <keyboard-shortcut first-keystroke="ctrl j" />
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
-  </action>
   <action id="Javascript.Linters.StandardJS.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -96,6 +93,11 @@
   <action id="MethodHierarchy" />
   <action id="NextOccurence" />
   <action id="NextProjectWindow" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+    <keyboard-shortcut first-keystroke="alt e" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
     <keyboard-shortcut first-keystroke="ctrl alt down" />
@@ -103,6 +105,10 @@
   </action>
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="PreviousOccurence" />
   <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
