@@ -80,6 +80,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="4e8d300f-09e5-4c1f-b80a-9871728d6d0b" name="Admin Portal" url="http://api.sandbox.horse/">
+        <fileTransfer host="admin-portal.sandbox.horse" port="22" rootFolder="/srv/www/lightstream-admin-portal" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
