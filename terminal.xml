@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
+    <option name="myOverrideIdeShortcuts" value="false" />
     <option name="myShellPath" value="&quot;C:\Program Files\Git\git-cmd.exe&quot;  --no-cd --command=usr/bin/bash.exe" />
   </component>
 </application>
