@@ -28,8 +28,14 @@
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="EditSource" />
   <action id="EditSourceInNewWindow" />
-  <action id="EditorCodeBlockEnd" />
-  <action id="EditorCodeBlockStart" />
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
+  </action>
+  <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
+  </action>
+  <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorContextInfo" />
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
