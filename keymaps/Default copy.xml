@@ -97,6 +97,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="MethodHierarchy" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
   <action id="NextOccurence" />
   <action id="NextProjectWindow" />
   <action id="NextSplitter">
@@ -159,4 +162,5 @@
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
   </action>
+  <action id="context.save" />
 </keymap>
