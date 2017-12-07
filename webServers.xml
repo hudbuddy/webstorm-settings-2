@@ -85,6 +85,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="edb82cc3-0186-479b-af9a-264c1de64e71" name="Central (Staging)" url="http://10.3.3.4">
+        <fileTransfer host="10.3.3.4" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" rootFolder="/srv/www/infiniscene-central" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
