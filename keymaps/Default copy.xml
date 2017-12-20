@@ -21,6 +21,10 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="Debugger.EditTypeSource" />
@@ -113,7 +117,6 @@
   <action id="NextProjectWindow" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl quote" />
-    <keyboard-shortcut first-keystroke="alt e" />
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="NextTab">
