@@ -1,4 +1,5 @@
-<code_scheme name="Standard">
+<code_scheme name="Standard" version="173">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <JSCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
