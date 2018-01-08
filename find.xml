@@ -12,7 +12,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.pug</mask>
       <mask>*.pu</mask>
       <mask>*.p</mask>
       <mask>*.js</mask>
@@ -21,6 +20,7 @@
       <mask>*.s</mask>
       <mask>*.st</mask>
       <mask>*.styl</mask>
+      <mask>*.pug</mask>
     </recentFileMasks>
   </component>
 </application>
