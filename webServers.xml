@@ -90,6 +90,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="9fb8fbfd-62e5-445d-a96d-12e08a0d9685" name="Studio (Staging 2)" url="http://10.3.5.9">
+        <fileTransfer host="10.3.5.9" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
