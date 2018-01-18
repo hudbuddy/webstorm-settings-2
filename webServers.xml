@@ -6,8 +6,8 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
-      <webServer id="23431b8a-3136-408c-9ae9-8a230791eb7e" name="Studio (Production)" url="http://10.1.1.4">
-        <fileTransfer host="10.1.1.4" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
+      <webServer id="23431b8a-3136-408c-9ae9-8a230791eb7e" name="Studio (Production)" url="http://10.1.100.7">
+        <fileTransfer host="10.1.100.7" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
