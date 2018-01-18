@@ -19,6 +19,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
