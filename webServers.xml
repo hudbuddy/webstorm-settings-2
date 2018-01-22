@@ -57,8 +57,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="216c7879-eb2e-46af-967b-644737c164ac" name="WebRTC (Staging)" url="http://10.3.5.4">
-        <fileTransfer host="10.3.5.4" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
+      <webServer id="216c7879-eb2e-46af-967b-644737c164ac" name="WebRTC (Staging)" url="http://10.3.1.5">
+        <fileTransfer host="10.3.1.5" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -92,6 +92,14 @@
       </webServer>
       <webServer id="9fb8fbfd-62e5-445d-a96d-12e08a0d9685" name="Studio (Staging 2)" url="http://10.3.5.9">
         <fileTransfer host="10.3.5.9" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="518f6cc8-42aa-4750-afb7-8d413e584736" name="WebRTC (Staging 2)" url="http://10.3.1.4">
+        <fileTransfer host="10.3.1.4" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
