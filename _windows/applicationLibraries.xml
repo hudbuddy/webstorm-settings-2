@@ -1,0 +1,19 @@
+<application>
+  <component name="libraryTable">
+    <library name="lodash" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://D:/Webstorm Libraries/lodash" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://D:/Webstorm Libraries/lodash.js" />
+        <root url="file://D:/Webstorm Libraries/lodash" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="https://lodash.com/docs/4.17.4" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+  </component>
+</application>
