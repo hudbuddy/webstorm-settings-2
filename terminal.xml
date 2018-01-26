@@ -2,5 +2,6 @@
   <component name="TerminalOptionsProvider">
     <option name="myOverrideIdeShortcuts" value="false" />
     <option name="myShellPath" value="&quot;cmd.exe&quot; /k set ConEmuDir=&quot;&quot;%CMDER_ROOT%&quot;\vendor\conemu-maximus5&amp;&amp;Call %CMDER_ROOT%\vendor\init.bat&quot;" />
+    <option name="mySoundBell" value="false" />
   </component>
 </application>
