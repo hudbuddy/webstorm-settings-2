@@ -106,6 +106,22 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="f7871fa0-94b3-4d1c-b08c-9df49725bbe6" name="Studio (Staging UK)" url="http://10.53.5.4">
+        <fileTransfer host="10.53.5.4" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a7369d2d-4e41-476b-a6fe-87bd5dd63654" name="Studio (Staging UK 2)" url="http://10.53.5.5">
+        <fileTransfer host="10.53.5.5" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
