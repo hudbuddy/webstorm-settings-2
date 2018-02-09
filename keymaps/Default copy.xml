@@ -25,6 +25,7 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="Console.Execute" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="Debugger.EditTypeSource" />
@@ -36,10 +37,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
+  <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="DomCollectionControl.Edit" />
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
-  <action id="EditSource" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="EditSourceInNewWindow" />
+  <action id="EditorChooseLookupItem" />
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
@@ -51,6 +56,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt z" second-keystroke="left" />
   </action>
   <action id="EditorContextInfo" />
+  <action id="EditorEnter" />
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
@@ -94,6 +100,7 @@
   <action id="HtmlTableCellNavigateRight" />
   <action id="Images.Editor.ToggleGrid" />
   <action id="Images.ShowThumbnails" />
+  <action id="Images.Thumbnails.EnterAction" />
   <action id="Javascript.Linters.StandardJS.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -122,6 +129,9 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
     <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
