@@ -40,9 +40,7 @@
   <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="DomCollectionControl.Edit" />
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="enter" />
-  </action>
+  <action id="EditSource" />
   <action id="EditSourceInNewWindow" />
   <action id="EditorChooseLookupItem" />
   <action id="EditorCodeBlockEnd" />
