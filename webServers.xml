@@ -122,6 +122,22 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d84ef216-ff32-4b20-9d37-cb8cf598d5cb" name="WebRTC (Prod)" url="http://10.1.1.6">
+        <fileTransfer host="10.1.1.6" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b3609c11-d6b3-4fae-b2c0-6937765c7f53" name="WebRTC (Prod2)" url="http://10.1.1.7">
+        <fileTransfer host="10.1.1.7" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
