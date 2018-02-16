@@ -146,6 +146,30 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="8dc4d402-cc9f-4700-b890-e4fe548ddac5" name="Studio Silly" url="http://10.2.5.6">
+        <fileTransfer host="10.2.5.6" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ca0a1105-c18b-411f-ba12-504e41fe8058" name="WebRTC Silly" url="http://10.2.1.5">
+        <fileTransfer host="10.2.1.5" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e22a08e4-e4a5-48cb-8ca9-539a3f726122" name="Prism Silly" url="http://10.2.5.5">
+        <fileTransfer host="10.2.5.5" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
