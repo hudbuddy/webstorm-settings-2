@@ -170,6 +170,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="6640c1ed-18b0-4b90-8bd4-859c19c6a7f4" name="Central Silly" url="http://10.2.6.4">
+        <fileTransfer host="10.2.6.4" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
