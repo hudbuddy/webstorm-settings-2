@@ -8,6 +8,7 @@
       <mapping pattern="asd3" type="PLAIN_TEXT" />
       <mapping pattern="asd2" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-08" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-07" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-04" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-03" type="PLAIN_TEXT" />
@@ -15,9 +16,12 @@
       <mapping pattern="camera-state-01" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-02" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-06" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-09" type="PLAIN_TEXT" />
       <mapping pattern="asdaasd" type="PLAIN_TEXT" />
       <mapping pattern="saa" type="PLAIN_TEXT" />
       <mapping pattern="asda" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-11" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-10" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
