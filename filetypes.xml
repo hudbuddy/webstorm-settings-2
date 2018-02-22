@@ -7,6 +7,7 @@
       <mapping pattern="hey" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="saa" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-35" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-34" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-33" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-32" type="PLAIN_TEXT" />
