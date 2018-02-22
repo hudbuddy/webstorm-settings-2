@@ -17,6 +17,7 @@
       <mapping pattern="camera-state-02" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-06" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-09" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-20" type="PLAIN_TEXT" />
       <mapping pattern="asdaasd" type="PLAIN_TEXT" />
       <mapping pattern="saa" type="PLAIN_TEXT" />
       <mapping pattern="asda" type="PLAIN_TEXT" />
