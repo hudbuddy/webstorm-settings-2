@@ -4,6 +4,7 @@
       <mapping pattern="mediasoup-v2-notes" type="JavaScript" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping pattern="asda" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-42" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-41" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-40" type="PLAIN_TEXT" />
       <mapping pattern="hey" type="PLAIN_TEXT" />
