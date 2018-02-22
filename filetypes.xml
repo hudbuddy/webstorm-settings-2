@@ -5,6 +5,7 @@
       <mapping pattern="aadd" type="PLAIN_TEXT" />
       <mapping pattern="kkkkk" type="PLAIN_TEXT" />
       <mapping pattern="hey" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-22" type="PLAIN_TEXT" />
       <mapping pattern="asd3" type="PLAIN_TEXT" />
       <mapping pattern="asd2" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
