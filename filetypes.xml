@@ -4,6 +4,8 @@
       <mapping pattern="mediasoup-v2-notes" type="JavaScript" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping pattern="asda" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-47" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-46" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-45" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-44" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-43" type="PLAIN_TEXT" />
@@ -33,6 +35,7 @@
       <mapping pattern="camera-state-22" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-21" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-20" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-42-1" type="PLAIN_TEXT" />
       <mapping pattern="asdaasd" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-19" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-18" type="PLAIN_TEXT" />
