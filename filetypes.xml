@@ -57,10 +57,13 @@
       <mapping pattern="camera-state-03" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-02" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-01" type="PLAIN_TEXT" />
+      <mapping pattern="example-asset" type="PLAIN_TEXT" />
+      <mapping pattern="example-asset-model-ampersand" type="PLAIN_TEXT" />
       <mapping pattern="example-reducer" type="PLAIN_TEXT" />
       <mapping pattern="kkkkk" type="PLAIN_TEXT" />
       <mapping pattern="aadd" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-48" type="PLAIN_TEXT" />
+      <mapping pattern="example-main" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
       <mapping pattern="mediasoup-v2-notes.js" type="TSLint" />
