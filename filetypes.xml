@@ -9,11 +9,12 @@
       <mapping pattern="camera-state-46" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-45" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-44" type="PLAIN_TEXT" />
-      <mapping pattern="camera-state-43" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-42-1" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-42" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-41" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-40" type="PLAIN_TEXT" />
       <mapping pattern="hey" type="PLAIN_TEXT" />
+      <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="saa" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-39" type="PLAIN_TEXT" />
@@ -26,6 +27,7 @@
       <mapping pattern="camera-state-32" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-31" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-30" type="PLAIN_TEXT" />
+      <mapping pattern="example-component" type="PLAIN_TEXT" />
       <mapping pattern="asd3" type="PLAIN_TEXT" />
       <mapping pattern="asd2" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-29" type="PLAIN_TEXT" />
@@ -36,10 +38,9 @@
       <mapping pattern="camera-state-22" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-21" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-20" type="PLAIN_TEXT" />
-      <mapping pattern="camera-state-42-1" type="PLAIN_TEXT" />
       <mapping pattern="asdaasd" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-43" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-19" type="PLAIN_TEXT" />
-      <mapping pattern="camera-state-48" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-18" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-17" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-15" type="PLAIN_TEXT" />
@@ -56,9 +57,10 @@
       <mapping pattern="camera-state-03" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-02" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-01" type="PLAIN_TEXT" />
+      <mapping pattern="example-reducer" type="PLAIN_TEXT" />
       <mapping pattern="kkkkk" type="PLAIN_TEXT" />
       <mapping pattern="aadd" type="PLAIN_TEXT" />
-      <mapping pattern="ddd" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-48" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
       <mapping pattern="mediasoup-v2-notes.js" type="TSLint" />
