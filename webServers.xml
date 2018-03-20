@@ -186,6 +186,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="176c10d4-1698-4234-8521-5a98af14b342" name="SFU (Staging)" url="http://10.3.1.6">
+        <fileTransfer host="10.3.1.6" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
