@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="mediasoup-v2-notes" type="JavaScript" />
+      <mapping pattern="model" type="JavaScript" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-49" type="PLAIN_TEXT" />
       <mapping pattern="asda" type="PLAIN_TEXT" />
@@ -14,6 +15,7 @@
       <mapping pattern="camera-state-41" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-40" type="PLAIN_TEXT" />
       <mapping pattern="hey" type="PLAIN_TEXT" />
+      <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="saa" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-39" type="PLAIN_TEXT" />
@@ -53,7 +55,6 @@
       <mapping pattern="camera-state-08" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-07" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-06" type="PLAIN_TEXT" />
-      <mapping pattern="camera-state-48" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-04" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-03" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-02" type="PLAIN_TEXT" />
@@ -63,7 +64,7 @@
       <mapping pattern="example-reducer" type="PLAIN_TEXT" />
       <mapping pattern="kkkkk" type="PLAIN_TEXT" />
       <mapping pattern="aadd" type="PLAIN_TEXT" />
-      <mapping pattern="ddd" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-48" type="PLAIN_TEXT" />
       <mapping pattern="example-main" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
