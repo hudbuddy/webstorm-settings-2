@@ -10,10 +10,7 @@
     </option>
     <option name="cloneParentDir" value="D:\" />
   </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
-  </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="D:/Lightstream/.idea/shelf/Rework_rotation_-_on_the_right_track" />
+    <option name="PATCH_STORAGE_LOCATION" value="D:/patches" />
   </component>
 </application>
