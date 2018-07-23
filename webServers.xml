@@ -15,7 +15,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="db7fccfd-5cb4-42e6-9fc5-05d4a2d4fccc" name="Studio" url="http://app.sandbox.horse/">
-        <fileTransfer host="app.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-studio" accessType="SFTP">
+        <fileTransfer host="studio.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-studio" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
