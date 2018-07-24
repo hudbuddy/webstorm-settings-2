@@ -1,6 +1,11 @@
 <application>
   <component name="libraryTable">
     <library name="lodash" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://D:/Webstorm Libraries/lodash" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
         <root url="file://D:/Webstorm Libraries/lodash.js" />
         <root url="file://D:/Webstorm Libraries/lodash" />
