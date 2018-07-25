@@ -13,10 +13,14 @@
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="alt left" second-keystroke="alt left" />
   </action>
+  <action id="ChangesView.AddUnversioned" />
+  <action id="ChangesView.Revert" />
   <action id="CloseActiveTab" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
@@ -29,6 +33,7 @@
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="Debugger.EditTypeSource" />
+  <action id="Diagram.DeselectAll" />
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="ctrl tab" />
     <keyboard-shortcut first-keystroke="alt w" />
@@ -54,11 +59,51 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt z" second-keystroke="left" />
   </action>
   <action id="EditorContextInfo" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift home" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorMoveDownAndScroll">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EditorMoveUpAndScroll">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="EditorNextWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+  </action>
+  <action id="EditorPageDown">
+    <keyboard-shortcut first-keystroke="page_down" />
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="EditorPageDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift page_down" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorPageUp">
+    <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorPageUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift page_up" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="EditorPreviousWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
@@ -66,6 +111,8 @@
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="shift ctrl e" />
@@ -74,6 +121,7 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="ctrl alt z" />
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
@@ -83,7 +131,6 @@
   </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
-    <keyboard-shortcut first-keystroke="alt right" second-keystroke="alt right" />
   </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
@@ -114,10 +161,19 @@
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
-  <action id="MethodHierarchy" />
+  <action id="MethodDown" />
+  <action id="MethodHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="MethodUp" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
+  <action id="MoveLineDown" />
+  <action id="MoveLineUp" />
+  <action id="NextEditorTab" />
   <action id="NextProjectWindow" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl quote" />
@@ -136,6 +192,7 @@
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="PreviousEditorTab" />
   <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
@@ -146,6 +203,7 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
+  <action id="ShowContent" />
   <action id="ShowReformatFileDialog" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt x" />
@@ -157,24 +215,14 @@
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
-  <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="shift alt down" />
-  </action>
-  <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="shift alt left" />
-  </action>
-  <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="shift alt right" />
-  </action>
-  <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="shift alt up" />
-  </action>
   <action id="Switcher" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.RollbackChangedLines" />
   <action id="XDebugger.JumpToSource" />
+  <action id="XDebugger.MoveWatchDown" />
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
   </action>
