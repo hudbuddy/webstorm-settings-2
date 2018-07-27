@@ -113,6 +113,14 @@
   </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="ctrl end" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="ctrl home" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="shift ctrl e" />
@@ -174,6 +182,7 @@
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
   <action id="NextEditorTab" />
+  <action id="NextOccurence" />
   <action id="NextProjectWindow" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl quote" />
@@ -193,6 +202,7 @@
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="PreviousEditorTab" />
+  <action id="PreviousOccurence" />
   <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
