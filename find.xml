@@ -1,26 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.pu</mask>
-      <mask>*.p</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.st</mask>
-      <mask>*.styl</mask>
-      <mask>*.pug</mask>
-      <mask>*.js</mask>
-    </recentFileMasks>
+    <option name="customScope" value="Studio" />
+    <option name="defaultScopeName" value="Studio" />
+    <option name="SEARCH_SCOPE" value="Studio" />
   </component>
 </application>
