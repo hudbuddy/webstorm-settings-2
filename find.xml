@@ -3,7 +3,6 @@
     <option name="customScope" value="Studio" />
     <option name="defaultScopeName" value="Studio" />
     <option name="SEARCH_SCOPE" value="Studio" />
-    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
