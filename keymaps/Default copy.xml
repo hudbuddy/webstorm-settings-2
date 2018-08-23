@@ -150,10 +150,6 @@
     <keyboard-shortcut first-keystroke="ctrl home" />
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
-  <action id="EvaluateExpression">
-    <keyboard-shortcut first-keystroke="alt f8" />
-    <keyboard-shortcut first-keystroke="shift ctrl e" />
-  </action>
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="ctrl alt add" />
     <keyboard-shortcut first-keystroke="ctrl alt equals" />
@@ -254,6 +250,7 @@
   <action id="RemoteHostView.EditSource" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="ShowContent" />
   <action id="ShowNavBar">
