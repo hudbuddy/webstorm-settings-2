@@ -3,6 +3,7 @@
     <option name="customScope" value="Studio Server" />
     <option name="defaultScopeName" value="Studio Server" />
     <option name="SEARCH_SCOPE" value="Studio Server" />
+    <option name="FILE_MASK" value="*.js*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -12,5 +13,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js</mask>
+    <mask>*.js*</mask>
   </component>
 </application>
