@@ -15,7 +15,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="db7fccfd-5cb4-42e6-9fc5-05d4a2d4fccc" name="Studio" url="http://app.sandbox.horse/">
-        <fileTransfer host="studio.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-studio" accessType="SFTP">
+        <fileTransfer host="studio.sandbox.horse" port="22" rootFolder="/srv/www/studio" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
@@ -191,6 +191,11 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="cdddcd75-4be4-4e1f-a9aa-ad2ae8b66180" name="Engine" url="http://app.sandbox.horse/">
+        <fileTransfer host="engine.sandbox.horse" port="22" rootFolder="/srv/www/engine" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
