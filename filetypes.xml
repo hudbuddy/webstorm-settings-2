@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="mediasoup-v2-notes" type="JavaScript" />
       <mapping pattern="model" type="JavaScript" />
+      <mapping pattern="Future" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping pattern="Projects" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-49" type="PLAIN_TEXT" />
@@ -16,7 +17,7 @@
       <mapping pattern="camera-state-41" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-40" type="PLAIN_TEXT" />
       <mapping pattern="hey" type="PLAIN_TEXT" />
-      <mapping pattern="ddd" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-48" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="saa" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-39" type="PLAIN_TEXT" />
@@ -67,7 +68,7 @@
       <mapping pattern="example-reducer" type="PLAIN_TEXT" />
       <mapping pattern="kkkkk" type="PLAIN_TEXT" />
       <mapping pattern="aadd" type="PLAIN_TEXT" />
-      <mapping pattern="camera-state-48" type="PLAIN_TEXT" />
+      <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="example-main" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
