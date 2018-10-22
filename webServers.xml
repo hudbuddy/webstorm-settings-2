@@ -199,6 +199,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="249a153f-c6b2-4b51-ac58-e3de612ea617" name="ADPO (Prod)" url="http://10.1.5.10">
+        <fileTransfer host="10.1.5.10" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
