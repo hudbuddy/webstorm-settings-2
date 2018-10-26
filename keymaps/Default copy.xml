@@ -202,6 +202,9 @@
   <action id="Images.Editor.ToggleGrid" />
   <action id="Images.ShowThumbnails" />
   <action id="Images.Thumbnails.EnterAction" />
+  <action id="InspectCode">
+    <keyboard-shortcut first-keystroke="shift ctrl alt i" />
+  </action>
   <action id="Javascript.Linters.StandardJS.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -271,6 +274,7 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
+  <action id="RunInspection" />
   <action id="ShowContent" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
