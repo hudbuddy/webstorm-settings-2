@@ -15,5 +15,6 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>*.js*</mask>
+    <mask>*.styl*</mask>
   </component>
 </application>
