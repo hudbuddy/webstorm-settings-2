@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Frontend Javascript" />
-    <option name="defaultScopeName" value="Frontend Javascript" />
+    <option name="customScope" value="Studio Web" />
+    <option name="defaultScopeName" value="Studio Web" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Frontend Javascript" />
+    <option name="SEARCH_SCOPE" value="Studio Web" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
