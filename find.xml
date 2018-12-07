@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Frontend Javascript" />
-    <option name="defaultScopeName" value="Frontend Javascript" />
-    <option name="SEARCH_SCOPE" value="Frontend Javascript" />
+    <option name="customScope" value="Studio Server" />
+    <option name="defaultScopeName" value="Studio Server" />
+    <option name="SEARCH_SCOPE" value="Studio Server" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
