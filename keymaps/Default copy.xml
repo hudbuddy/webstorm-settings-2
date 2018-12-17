@@ -205,9 +205,9 @@
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="shift ctrl alt i" />
   </action>
-  <action id="Javascript.Linters.StandardJS.Fix">
+  <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
-    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
@@ -270,6 +270,7 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="RecentChangedFiles" />
+  <action id="ReformatCode" />
   <action id="RemoteHostView.EditSource" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
@@ -300,6 +301,7 @@
     <keyboard-shortcut first-keystroke="shift alt m" />
     <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
+  <action id="Vcs.ReformatCommitMessage" />
   <action id="Vcs.RollbackChangedLines" />
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
