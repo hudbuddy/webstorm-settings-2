@@ -6,14 +6,6 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
-      <webServer id="23431b8a-3136-408c-9ae9-8a230791eb7e" name="Studio (Production)" url="http://10.1.100.7">
-        <fileTransfer host="10.1.100.7" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="db7fccfd-5cb4-42e6-9fc5-05d4a2d4fccc" name="Studio" url="http://app.sandbox.horse/">
         <fileTransfer host="studio.sandbox.horse" port="22" rootFolder="/srv/www/studio" accessType="SFTP">
           <option name="port" value="22" />
@@ -49,14 +41,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="216c7879-eb2e-46af-967b-644737c164ac" name="WebRTC (Staging)" url="http://10.3.1.5">
-        <fileTransfer host="10.3.1.5" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="9709580b-74c2-4a37-bfa8-bdfd249601df" name="Redis" url="http://app.sandbox.horse/">
         <fileTransfer host="redis.sandbox.horse" port="22" rootFolder="/srv" accessType="SFTP">
           <option name="port" value="22" />
@@ -74,91 +58,6 @@
       </webServer>
       <webServer id="4e8d300f-09e5-4c1f-b80a-9871728d6d0b" name="Admin Portal" url="http://api.sandbox.horse/">
         <fileTransfer host="admin-portal.sandbox.horse" port="22" rootFolder="/srv/www/lightstream-admin-portal" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="edb82cc3-0186-479b-af9a-264c1de64e71" name="Central (Staging)" url="http://10.3.3.4">
-        <fileTransfer host="10.3.3.4" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" rootFolder="/srv/www/infiniscene-central" accessType="SFTP" keyPair="true">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="518f6cc8-42aa-4750-afb7-8d413e584736" name="WebRTC (Staging 2)" url="http://10.3.1.4">
-        <fileTransfer host="10.3.1.4" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="d84ef216-ff32-4b20-9d37-cb8cf598d5cb" name="WebRTC (Prod)" url="http://10.1.1.6">
-        <fileTransfer host="10.1.1.6" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="b3609c11-d6b3-4fae-b2c0-6937765c7f53" name="WebRTC (Prod2)" url="http://10.1.1.7">
-        <fileTransfer host="10.1.1.7" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="0fb71917-e360-43cd-8fbb-87988e3da46b" name="Ingest (Prod)" url="http://10.1.2.4">
-        <fileTransfer host="10.1.2.4" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="8dc4d402-cc9f-4700-b890-e4fe548ddac5" name="Studio Silly" url="http://10.2.5.4">
-        <fileTransfer host="10.2.5.4" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="ca0a1105-c18b-411f-ba12-504e41fe8058" name="WebRTC Silly" url="http://10.2.1.5">
-        <fileTransfer host="10.2.1.5" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="e22a08e4-e4a5-48cb-8ca9-539a3f726122" name="Prism Silly" url="http://10.2.5.6">
-        <fileTransfer host="10.2.5.6" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="6640c1ed-18b0-4b90-8bd4-859c19c6a7f4" name="Central Silly" url="http://10.2.6.4">
-        <fileTransfer host="10.2.6.4" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="b3b23324-1ebc-443c-aead-c3e2d2fab3da" name="Engine (SIlly)" url="http://10.2.8.4">
-        <fileTransfer host="10.2.8.4" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="176c10d4-1698-4234-8521-5a98af14b342" name="SFU (Staging)" url="http://10.3.1.6">
-        <fileTransfer host="10.3.1.6" port="22" privateKey="C:\Users\skwac\AzurePPK\id_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
@@ -185,6 +84,14 @@
       </webServer>
       <webServer id="37a6f592-f48e-424e-8c6c-7ab59fa2fc27" name="Studio (Stage)" url="http://10.197.5.8">
         <fileTransfer host="10.197.5.8" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f71fc077-5eae-41fd-925e-1d6e0df1112f" name="Prism (Prod)" url="http://10.1.5.7">
+        <fileTransfer host="10.1.5.7" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
