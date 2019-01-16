@@ -74,7 +74,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="52c3d3dc-ab49-4194-a89a-5c85c1516cd9" name="Engine (Staging)" url="http://10.197.8.4">
+      <webServer id="52c3d3dc-ab49-4194-a89a-5c85c1516cd9" name="Engine (Stage)" url="http://10.197.8.4">
         <fileTransfer host="10.197.8.4" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -92,6 +92,14 @@
       </webServer>
       <webServer id="f71fc077-5eae-41fd-925e-1d6e0df1112f" name="Prism (Prod)" url="http://10.1.5.7">
         <fileTransfer host="10.1.5.7" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="03a32206-f3b5-4cdd-9535-ee27b876581e" name="Prism (Stage)" url="http://10.197.5.8">
+        <fileTransfer host="10.197.5.8" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
