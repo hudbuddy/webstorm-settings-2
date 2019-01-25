@@ -111,6 +111,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="cc9817f8-67f2-4b24-8ae2-4bb4ff671677" name="WebRTC (Stage)" url="http://10.197.1.5">
+        <fileTransfer host="10.197.1.5" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
