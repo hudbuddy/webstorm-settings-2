@@ -215,7 +215,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt i" />
   </action>
   <action id="Javascript.Linters.EsLint.Fix">
-    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="JumpToLastChange">
@@ -283,10 +282,12 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="RecentChangedFiles" />
-  <action id="ReformatCode" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+  </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
-    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
   </action>
   <action id="RemoteHostView.EditSource" />
   <action id="ReopenClosedTab">
