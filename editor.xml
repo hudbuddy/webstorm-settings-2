@@ -22,7 +22,7 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern useCustomColors="true" pattern="\bnote\b.*">
-      <option name="FOREGROUND" value="606943" />
+      <option name="FOREGROUND" value="356876" />
       <option name="FONT_TYPE" value="2" />
       <option name="EFFECT_TYPE" value="1" />
     </pattern>
