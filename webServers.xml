@@ -127,6 +127,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="0a77d7d4-76f8-4cb2-90a3-a9cf748930b6" name="Engine (Prod WUS2)" url="http://10.140.5.9">
+        <fileTransfer host="10.140.5.9" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
