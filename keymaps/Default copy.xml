@@ -44,9 +44,6 @@
   </action>
   <action id="ChangesView.Revert" />
   <action id="CloseActiveTab" />
-  <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
-  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
     <keyboard-shortcut first-keystroke="shift alt e" />
@@ -69,7 +66,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
   <action id="Console.Execute" />
-  <action id="Console.Execute.Multiline" />
+  <action id="Console.Execute.Multiline">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="DebugClass">
@@ -147,17 +146,9 @@
   <action id="EditorNextWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl alt right" />
   </action>
-  <action id="EditorPageDown">
-    <keyboard-shortcut first-keystroke="page_down" />
-    <keyboard-shortcut first-keystroke="alt down" />
-  </action>
   <action id="EditorPageDownWithSelection">
     <keyboard-shortcut first-keystroke="shift page_down" />
     <keyboard-shortcut first-keystroke="shift alt down" />
-  </action>
-  <action id="EditorPageUp">
-    <keyboard-shortcut first-keystroke="page_up" />
-    <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="EditorPageUpWithSelection">
     <keyboard-shortcut first-keystroke="shift page_up" />
@@ -230,13 +221,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="MaximizeToolWindow" />
-  <action id="MethodDown" />
   <action id="MethodHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
-  <action id="MethodUp" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
