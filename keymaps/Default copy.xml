@@ -97,10 +97,10 @@
   <action id="EditSourceInNewWindow" />
   <action id="EditorChooseLookupItem" />
   <action id="EditorCloneCaretAbove">
-    <keyboard-shortcut first-keystroke="shift c" second-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="EditorCloneCaretBelow">
-    <keyboard-shortcut first-keystroke="shift c" second-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection">
@@ -170,14 +170,6 @@
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="EditorSplitLine" />
-  <action id="EditorTextEnd">
-    <keyboard-shortcut first-keystroke="ctrl end" />
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
-  <action id="EditorTextStart">
-    <keyboard-shortcut first-keystroke="ctrl home" />
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
-  </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="shift ctrl e" />
