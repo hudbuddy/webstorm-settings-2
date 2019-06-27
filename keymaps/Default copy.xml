@@ -274,6 +274,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt i" />
   </action>
   <action id="RecentChangedFiles" />
+  <action id="RecentLocations">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="ReformatCode" />
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
