@@ -7,148 +7,112 @@
     </sftpAdvancedGlobalOptions>
     <option name="servers">
       <webServer id="db7fccfd-5cb4-42e6-9fc5-05d4a2d4fccc" name="Studio" url="http://app.sandbox.horse/">
-        <fileTransfer host="studio.sandbox.horse" port="22" rootFolder="/srv/www/studio" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer rootFolder="/srv/www/studio" accessType="SFTP" sshConfigId="0f83c953-2a6a-4096-87ba-b0730a95b79f" sshConfig="Studio" />
       </webServer>
       <webServer id="c6335d0d-4190-4f6a-a187-fb7019711bb4" name="WebRTC" url="http://webrtc.sandbox.horse">
-        <fileTransfer host="webrtc.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-webrtc" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer rootFolder="/srv/www/infiniscene-webrtc" accessType="SFTP" sshConfigId="82199f0e-6187-4ae3-ac05-131fd781c207" sshConfig="WebRTC" />
       </webServer>
       <webServer id="8f47129d-12c7-4650-b498-4625a9d7f1fd" name="SFU" url="http://sfu.sandbox.horse">
-        <fileTransfer host="sfu.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-sfu" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer rootFolder="/srv/www/infiniscene-sfu" accessType="SFTP" sshConfigId="46e5d0b2-7932-4ff6-bbb6-f8aaed1dd2ae" sshConfig="SFU" />
       </webServer>
       <webServer id="363a327f-aa14-40dc-9825-eba0d49d4635" name="Central" url="http://central.sandbox.horse">
-        <fileTransfer host="central.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-central" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer rootFolder="/srv/www/infiniscene-central" accessType="SFTP" sshConfigId="c655b625-1e9e-4449-91ab-b957bc75a7ba" sshConfig="Central" />
       </webServer>
       <webServer id="c97f9fd6-6e11-429b-bc35-9c3505b8a3e5" name="Captivate" url="http://captivate.sandbox.horse">
-        <fileTransfer host="captivate.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-captivate" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer rootFolder="/srv/www/infiniscene-captivate" accessType="SFTP" sshConfigId="347c3809-ba33-4e8d-94f5-b0d5e333fb8b" sshConfig="Captivate" />
       </webServer>
       <webServer id="6b296eab-9949-4dc8-960d-467911cc8aed" name="Prism" url="http://prism.sandbox.horse">
-        <fileTransfer host="prism.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-prism" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer rootFolder="/srv/www/infiniscene-prism" accessType="SFTP" sshConfigId="7d3a5eeb-6a03-43f2-8be2-57b1c5968ee8" sshConfig="Prism" />
       </webServer>
       <webServer id="083cbdaf-2b5c-4493-b02f-1b8926f446d4" name="Ingest" url="http://ingest.sandbox.horse">
-        <fileTransfer host="ingest.sandbox.horse" port="22" rootFolder="/srv/www/infiniscene-ingest" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer rootFolder="/srv/www/infiniscene-ingest" accessType="SFTP" sshConfigId="ebbb2b78-298e-4484-9712-9314ba6d8732" sshConfig="Ingest" />
       </webServer>
       <webServer id="9709580b-74c2-4a37-bfa8-bdfd249601df" name="Redis" url="http://app.sandbox.horse/">
-        <fileTransfer host="redis.sandbox.horse" port="22" rootFolder="/srv" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer rootFolder="/srv" accessType="SFTP" sshConfigId="e268ad9a-5f52-4593-8605-4acd9164f5e7" sshConfig="Redis" />
       </webServer>
       <webServer id="d3af6ee1-c602-40a4-89aa-1d8546db4388" name="Rainmaker" url="http://rainmaker.sandbox.horse/">
-        <fileTransfer host="rainmaker.sandbox.horse" port="22" rootFolder="/srv" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer rootFolder="/srv" accessType="SFTP" sshConfigId="13649638-e682-4907-b467-d3619e320a56" sshConfig="Rainmaker" />
       </webServer>
       <webServer id="9334b1c3-2191-4833-870c-89dbb07859f2" name="API" url="http://api.sandbox.horse/">
-        <fileTransfer host="api.sandbox.horse" port="22" rootFolder="/srv" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer rootFolder="/srv" accessType="SFTP" sshConfigId="51107abe-9b5c-4d54-ac4b-0a0911a9d1ed" sshConfig="API" />
       </webServer>
       <webServer id="4e8d300f-09e5-4c1f-b80a-9871728d6d0b" name="Admin Portal" url="http://api.sandbox.horse/">
-        <fileTransfer host="admin-portal.sandbox.horse" port="22" rootFolder="/srv/www/lightstream-admin-portal" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer rootFolder="/srv/www/lightstream-admin-portal" accessType="SFTP" sshConfigId="f302721c-1475-4565-a635-fc5927120d42" sshConfig="Admin Portal" />
       </webServer>
       <webServer id="cdddcd75-4be4-4e1f-a9aa-ad2ae8b66180" name="Engine" url="http://app.sandbox.horse/">
-        <fileTransfer host="engine.sandbox.horse" port="22" rootFolder="/srv/www/engine" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer rootFolder="/srv/www/engine" accessType="SFTP" sshConfigId="9606769b-6a63-4315-aa21-70fa3785a29a" sshConfig="Engine" />
       </webServer>
       <webServer id="249a153f-c6b2-4b51-ac58-e3de612ea617" name="ADPO (Prod)" url="http://10.1.5.10">
-        <fileTransfer host="10.1.5.10" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="c053e4f6-659f-4c60-9381-cb9f24e56c10" sshConfig="ADPO (Prod)">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="52c3d3dc-ab49-4194-a89a-5c85c1516cd9" name="Engine (Stage)" url="http://10.197.8.4">
-        <fileTransfer host="10.197.8.4" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="58e4cbd7-7909-4250-bbba-525ad35179ed" sshConfig="Engine (Stage)">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="37a6f592-f48e-424e-8c6c-7ab59fa2fc27" name="Studio (Stage)" url="http://10.197.5.8">
-        <fileTransfer host="10.197.5.8" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="a0e1a13a-7d40-4254-ad56-ef4ee397e1d7" sshConfig="Studio (Stage)">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="f71fc077-5eae-41fd-925e-1d6e0df1112f" name="Prism (Prod)" url="http://10.1.5.7">
-        <fileTransfer host="10.1.5.7" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="f5fa6711-f89f-4ca0-8cc2-18beac5aeb4c" sshConfig="Prism (Prod)">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="03a32206-f3b5-4cdd-9535-ee27b876581e" name="Prism (Stage)" url="http://10.197.5.8">
-        <fileTransfer host="10.197.5.8" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="7cbc495e-ddb8-46dc-84ea-da2576b8595f" sshConfig="Prism (Stage)">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="02280315-e823-472b-ab67-c6f428a73fe9" name="Prometheus" url="http://prometheus.sandbox.horse">
-        <fileTransfer host="prometheus.sandbox.horse" port="22" rootFolder="/srv/www/prometheus" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer rootFolder="/srv/www/prometheus" accessType="SFTP" sshConfigId="be496f3c-0ac6-480a-a578-57426f70f8fb" sshConfig="Prometheus" />
       </webServer>
       <webServer id="cc9817f8-67f2-4b24-8ae2-4bb4ff671677" name="WebRTC (Stage)" url="http://10.197.1.5">
-        <fileTransfer host="10.197.1.5" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="35b7cd34-b563-4c1a-921c-e8a2389c6434" sshConfig="WebRTC (Stage)">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="2ab65de6-41c9-4ad9-8845-038b5a4d5536" name="Studio (Prod WEU)" url="http://10.133.5.7">
-        <fileTransfer host="10.133.5.7" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="5cfbe42f-f8c0-4f4e-9140-f3fcf034869a" sshConfig="Studio (Prod WEU)">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="0a77d7d4-76f8-4cb2-90a3-a9cf748930b6" name="Studio (Prod WUS2)" url="http://10.140.5.9">
-        <fileTransfer host="10.140.5.9" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="74339bbd-a774-4837-b602-e6f31f0f36a2" sshConfig="Studio (Prod WUS2)">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="02c3da33-7c88-4c39-b844-6ff2db441dbd" name="Studio (Prod EUS2)" url="http://10.137.5.6">
-        <fileTransfer host="10.137.5.6" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="e78ba53a-ce5f-416e-a7b3-c6b1051024f6" sshConfig="Studio (Prod EUS2)">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="500e2ac5-09e7-4737-8fab-667c72eea6ad" name="WebRTC (Prod EUS2)" url="http://10.137.1.13">
-        <fileTransfer host="10.137.1.13" port="22" privateKey="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" accessType="SFTP" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="2164fb87-8ea3-41b3-a493-cc8b03705a44" sshConfig="WebRTC (Prod EUS2)">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
