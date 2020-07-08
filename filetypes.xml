@@ -7,14 +7,13 @@
       <mapping pattern="transform-dom" type="JavaScript" />
       <mapping pattern="example-asset-model-ampersand" type="PLAIN_TEXT" />
       <mapping pattern="hey" type="PLAIN_TEXT" />
-      <mapping pattern="example-component" type="PLAIN_TEXT" />
-      <mapping pattern="example-asset" type="PLAIN_TEXT" />
       <mapping pattern="aadd" type="PLAIN_TEXT" />
+      <mapping pattern="example-component" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-04" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-08" type="PLAIN_TEXT" />
       <mapping pattern="example-reducer" type="PLAIN_TEXT" />
-      <mapping pattern="camera-state-10" type="PLAIN_TEXT" />
+      <mapping pattern="example-asset" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-11" type="PLAIN_TEXT" />
       <mapping pattern="kkkkk" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
@@ -68,6 +67,7 @@
       <mapping pattern="camera-state-01" type="PLAIN_TEXT" />
       <mapping pattern="asd3" type="PLAIN_TEXT" />
       <mapping pattern="asd2" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-10" type="PLAIN_TEXT" />
       <mapping pattern="saa" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="Projects" type="PLAIN_TEXT" />
