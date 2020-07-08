@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Other/Compute Constant Value" />
+    <ignoreAction name="JavaScript/Other/Remove Unnecessary Parentheses" />
+  </component>
+</application>
