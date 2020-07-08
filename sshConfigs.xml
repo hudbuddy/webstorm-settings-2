@@ -90,6 +90,29 @@
       <sshConfig host="10.140.5.9" id="e557a91a-df87-460d-857f-a294d7c870dd" keyPath="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" port="22" customName="Studio (Prod WUS2)" nameFormat="CUSTOM" />
       <sshConfig host="10.137.5.6" id="da327252-a7af-4d26-8e80-b3925c9534a8" keyPath="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" port="22" customName="Studio (Prod EUS2)" nameFormat="CUSTOM" />
       <sshConfig host="10.137.1.13" id="b87024b0-3eb1-4d63-813f-ade43fef310b" keyPath="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" port="22" customName="WebRTC (Prod EUS2)" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="studio.sandbox.horse" id="38863e51-4d02-47a7-b55d-156c63b52822" port="22" customName="Studio" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="webrtc.sandbox.horse" id="e8a57c9d-06a0-46d7-b1e3-8aeed326a305" port="22" customName="WebRTC" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="sfu.sandbox.horse" id="659c4555-c499-463f-913a-0b2e899801fe" port="22" customName="SFU" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="central.sandbox.horse" id="dafe338f-69d9-46a6-8f71-51b202cf91ad" port="22" customName="Central" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="captivate.sandbox.horse" id="b35bb990-2cd0-47b1-a222-fa89458f977c" port="22" customName="Captivate" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="prism.sandbox.horse" id="c62dd5ce-aff2-4883-a452-2a567e21d903" port="22" customName="Prism" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="ingest.sandbox.horse" id="1a79dcd6-28ae-46df-84a0-3b4a652eb391" port="22" customName="Ingest" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="redis.sandbox.horse" id="4ffb75dc-b844-43bf-a093-80a8f5eb0263" port="22" customName="Redis" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="rainmaker.sandbox.horse" id="b3b1342a-02ed-4c51-985d-22dec37676a5" port="22" customName="Rainmaker" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="api.sandbox.horse" id="63bc77c4-01b4-44e7-8b7a-b37381c3b83a" port="22" customName="API" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="admin-portal.sandbox.horse" id="6d66406e-018d-4360-ab0e-5461e8f922e1" port="22" customName="Admin Portal" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="engine.sandbox.horse" id="a7062e8c-b848-4bb2-9561-5b72a65e4ea5" port="22" customName="Engine" nameFormat="CUSTOM" />
+      <sshConfig host="10.1.5.10" id="839ae987-e6ac-44b6-bab7-0c7604891114" keyPath="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" port="22" customName="ADPO (Prod)" nameFormat="CUSTOM" />
+      <sshConfig host="10.197.8.4" id="c531a63a-b441-48aa-93eb-fd6e024662ab" keyPath="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" port="22" customName="Engine (Stage)" nameFormat="CUSTOM" />
+      <sshConfig host="10.197.5.8" id="6cd9bc6e-08ae-48ef-9779-041753309a10" keyPath="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" port="22" customName="Studio (Stage)" nameFormat="CUSTOM" />
+      <sshConfig host="10.1.5.7" id="63c890bc-a2b1-4365-aba4-e3bc3344b197" keyPath="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" port="22" customName="Prism (Prod)" nameFormat="CUSTOM" />
+      <sshConfig host="10.197.5.8" id="f0dc8680-9501-40cc-bf78-2000302932a5" keyPath="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" port="22" customName="Prism (Stage)" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="prometheus.sandbox.horse" id="a3c599b1-4953-4c1c-bfb6-e3f9b2c53417" port="22" customName="Prometheus" nameFormat="CUSTOM" />
+      <sshConfig host="10.197.1.5" id="7c50521e-156f-4635-b2bd-3ee93319baef" keyPath="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" port="22" customName="WebRTC (Stage)" nameFormat="CUSTOM" />
+      <sshConfig host="10.133.5.7" id="713e8747-b0ed-441d-8a0c-168496a9a39b" keyPath="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" port="22" customName="Studio (Prod WEU)" nameFormat="CUSTOM" />
+      <sshConfig host="10.140.5.9" id="1f5a182e-259b-4687-ae80-20d183f6e396" keyPath="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" port="22" customName="Studio (Prod WUS2)" nameFormat="CUSTOM" />
+      <sshConfig host="10.137.5.6" id="5b80fbfe-a265-4a13-b72a-3b6d1cc7c83f" keyPath="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" port="22" customName="Studio (Prod EUS2)" nameFormat="CUSTOM" />
+      <sshConfig host="10.137.1.13" id="fe692895-765a-42b2-8587-7c35f4700134" keyPath="C:\Users\skwac\Google Drive\Backup\Infiniscene\Notes\azure.ppk" port="22" customName="WebRTC (Prod EUS2)" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
