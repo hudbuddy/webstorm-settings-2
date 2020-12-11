@@ -74,6 +74,7 @@
       <mapping pattern="webrtc" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-28" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-26" type="PLAIN_TEXT" />
+      <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
       <mapping pattern="mediasoup-v2-notes.js" type="TSLint" />
