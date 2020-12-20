@@ -18,12 +18,27 @@
   </component>
   <component name="LiveEditOptions" nodeUpdateOnChanges="true" useJBChromeExtension="true" />
   <component name="TodoConfiguration">
+    <multiLine>false</multiLine>
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
-    <pattern useCustomColors="true" pattern="\bnote\b.*">
+    <pattern useCustomColors="true" pattern="\bnote\:\b.*">
       <option name="FOREGROUND" value="45889a" />
       <option name="FONT_TYPE" value="2" />
       <option name="EFFECT_TYPE" value="1" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="(\n\t\s)*\&quot;(.|\?|\n\t\s)*\&quot;">
+      <option name="FOREGROUND" value="b3b1af" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="question" useCustomColors="true" pattern="(\n\t|\s)*\&gt; \w*.*\n">
+      <option name="FOREGROUND" value="9ec899" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="(\n\t\s)*- \w*.*\n">
+      <option name="FOREGROUND" value="e3e3e3" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
   </component>
 </application>
