@@ -22,6 +22,7 @@
       <mapping pattern="camera-state-14" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-12" type="PLAIN_TEXT" />
       <mapping pattern="siiiiick" type="PLAIN_TEXT" />
+      <mapping pattern="scenes" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-44" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-30" type="PLAIN_TEXT" />
