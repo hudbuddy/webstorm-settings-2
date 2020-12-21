@@ -25,6 +25,7 @@
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-44" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-30" type="PLAIN_TEXT" />
+      <mapping pattern="cef-snippets" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-02" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-42" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-32" type="PLAIN_TEXT" />
