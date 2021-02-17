@@ -1,6 +1,7 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="mediasoup-v2-notes" type="JavaScript" />
       <mapping pattern="model" type="JavaScript" />
       <mapping pattern="rotation-test" type="JavaScript" />
@@ -9,8 +10,8 @@
       <mapping pattern="example-reducer" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-35" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-11" type="PLAIN_TEXT" />
-      <mapping pattern="camera-state-46" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-34" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-46" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-36" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-48" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-33" type="PLAIN_TEXT" />
@@ -80,7 +81,6 @@
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
       <mapping pattern="mediasoup-v2-notes.js" type="TSLint" />
-      <mapping pattern="test" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
