@@ -29,6 +29,9 @@
   <action id="ActivateTypeScriptToolWindow">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
@@ -195,6 +198,9 @@
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="GotoTest" />
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift control button1" />
+  </action>
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="shift alt minus" />
@@ -254,6 +260,7 @@
   </action>
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
+  <action id="PopupHector" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
     <keyboard-shortcut first-keystroke="alt a" />
@@ -317,6 +324,9 @@
   </action>
   <action id="Vcs.ReformatCommitMessage" />
   <action id="Vcs.RollbackChangedLines" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
+  </action>
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
   <action id="ViewSource" />
