@@ -80,6 +80,7 @@
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
+      <mapping ext="asar" type="PLAIN_TEXT" />
       <mapping pattern="mediasoup-v2-notes.js" type="TSLint" />
     </extensionMap>
   </component>
