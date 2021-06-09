@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="asdsa" type="AUTO_DETECTED" />
+      <mapping pattern="spritemixer.js" type="AUTO_DETECTED" />
       <mapping pattern="transform" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="mediasoup-v2-notes" type="JavaScript" />
