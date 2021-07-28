@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="NOTES" type="AUTO_DETECTED" />
       <mapping pattern="asdsa" type="AUTO_DETECTED" />
       <mapping pattern="spritemixer.js" type="AUTO_DETECTED" />
       <mapping pattern="transform" type="AUTO_DETECTED" />
