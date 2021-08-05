@@ -14,9 +14,9 @@
       <mapping pattern="example-reducer" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-35" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-11" type="PLAIN_TEXT" />
+      <mapping pattern="camera-state-36" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-34" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-46" type="PLAIN_TEXT" />
-      <mapping pattern="camera-state-36" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-48" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-33" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-13" type="PLAIN_TEXT" />
