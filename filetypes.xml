@@ -4,6 +4,7 @@
       <mapping pattern="NOTES" type="AUTO_DETECTED" />
       <mapping pattern="asdsa" type="AUTO_DETECTED" />
       <mapping pattern="spritemixer.js" type="AUTO_DETECTED" />
+      <mapping pattern="kind" type="AUTO_DETECTED" />
       <mapping pattern="transform" type="AUTO_DETECTED" />
       <mapping pattern="STEPS" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
