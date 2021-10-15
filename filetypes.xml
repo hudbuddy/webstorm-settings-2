@@ -8,6 +8,7 @@
       <mapping pattern="transform" type="AUTO_DETECTED" />
       <mapping pattern="STEPS" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
+      <mapping pattern="core" type="AUTO_DETECTED" />
       <mapping pattern="mediasoup-v2-notes" type="JavaScript" />
       <mapping pattern="model" type="JavaScript" />
       <mapping pattern="rotation-test" type="JavaScript" />
