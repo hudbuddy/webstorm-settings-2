@@ -301,10 +301,15 @@
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="RunInspection" />
+  <action id="SelectAllOccurrences" />
   <action id="ShowContent" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
     <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt x" />
@@ -317,6 +322,12 @@
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="Switcher" />
+  <action id="TsLintFileFixAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+  </action>
+  <action id="TslintImportCodeStyleAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
