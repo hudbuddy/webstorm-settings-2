@@ -172,6 +172,9 @@
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="EditorSplitLine" />
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="shift ctrl e" />
@@ -335,9 +338,6 @@
   </action>
   <action id="TslintImportCodeStyleAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
-  </action>
-  <action id="Unsplit">
-    <keyboard-shortcut first-keystroke="alt z" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.MoveChangedLinesToChangelist">
