@@ -12,5 +12,6 @@
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="tabs.alphabetical" value="true" />
     <entry key="jest.test.tree.use.jasmine.reporter" value="false" />
+    <entry key="rdclient.asyncActions" value="false" />
   </component>
 </application>
