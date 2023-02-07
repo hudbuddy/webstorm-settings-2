@@ -3,21 +3,30 @@
     <property name="created">2023-02-06T23:34:05</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2022.3.2.0.0</property>
-    <property name="modified">2023-02-06T23:47:55</property>
+    <property name="modified">2023-02-07T00:57:14</property>
     <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
   <attributes>
-    <option name="GENERIC_SERVER_ERROR_OR_WARNING">
+    <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="EFFECT_COLOR" value="8d7048" />
-        <option name="ERROR_STRIPE_COLOR" value="60421c" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="FOREGROUND" value="7baa75" />
       </value>
     </option>
-    <option name="ReSharper.HINT">
+    <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="EFFECT_COLOR" value="58a558" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="FOREGROUND" value="7baa75" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="7baa75" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c6fa87" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="a72b2" />
       </value>
     </option>
   </attributes>
