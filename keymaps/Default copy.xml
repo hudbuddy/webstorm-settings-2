@@ -298,7 +298,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl e" />
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
-  <action id="ReformatCode" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
+  </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
     <keyboard-shortcut first-keystroke="shift ctrl alt k" />
