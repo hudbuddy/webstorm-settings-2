@@ -310,12 +310,9 @@
   <action id="RecentLocations">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
-  </action>
+  <action id="ReformatCode" />
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
   </action>
   <action id="RemoteHostView.EditSource" />
   <action id="ReopenClosedTab">
@@ -393,6 +390,9 @@
   <action id="ViewSource" />
   <action id="XDebugger.JumpToSource" />
   <action id="XDebugger.MoveWatchDown" />
+  <action id="com.intellij.csharpier.ReformatWithCSharpierAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
+  </action>
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
   </action>
