@@ -21,11 +21,11 @@
       <mapping pattern="example-asset" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping pattern="webrtc" type="PLAIN_TEXT" />
-      <mapping pattern="example-asset-model-ampersand" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-42-1" type="PLAIN_TEXT" />
+      <mapping pattern="example-asset-model-ampersand" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-03" type="PLAIN_TEXT" />
-      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-02" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-01" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-09" type="PLAIN_TEXT" />
       <mapping pattern="camera-state-08" type="PLAIN_TEXT" />
